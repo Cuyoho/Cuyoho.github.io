@@ -8,11 +8,22 @@
         <author>
           <name>初允禾</name>
         </author>
-        <description>满眼皆是欢喜，朝霞不如你</description>
+        <description>允公允能 日新月异</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 03 May 2024 00:00:00 +0800</pubDate>
-        <lastBuildDate>Fri, 03 May 2024 00:00:00 +0800</lastBuildDate>
+        <pubDate>Tue, 06 Aug 2024 16:11:18 +0800</pubDate>
+        <lastBuildDate>Tue, 06 Aug 2024 16:11:18 +0800</lastBuildDate>
         <category term="你值得人间一切美好" />
+        <item>
+            <guid isPermalink="true">http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/</guid>
+            <title>光子</title>
+            <link>http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/</link>
+            <pubDate>Tue, 06 Aug 2024 16:11:18 +0800</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;note default&#34;&gt;
+&lt;p&gt;这篇文章整理了有关光子的一些内容，主要是我在学习 skyrmions 的仿真时发现关于光的很多信息并没有学到，包括光子的自旋，光的 stokes 矢量等。所以写这篇笔记作为我对于学习内容的记录。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img data-src=&#34;./%E5%85%89%E5%AD%90/cover.jpeg&#34; alt=&#34;photon&#34; title=&#34;光子&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://cuyoho.github.io/2024/05/03/%E8%AF%BB%E4%B9%A6%E6%91%98%E6%8A%84/</guid>
             <title>读书摘抄</title>

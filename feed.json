@@ -3,9 +3,17 @@
     "title": null,
     "subtitle": "满眼皆是欢喜，朝霞不如你",
     "icon": "http://cuyoho.github.io/images/favicon.ico",
-    "description": "满眼皆是欢喜，朝霞不如你",
+    "description": "允公允能 日新月异",
     "home_page_url": "http://Cuyoho.github.io",
     "items": [
+        {
+            "id": "http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/",
+            "url": "http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/",
+            "title": "光子",
+            "date_published": "2024-08-06T08:11:18.000Z",
+            "content_html": "<div class=\"note default\">\n<p>这篇文章整理了有关光子的一些内容，主要是我在学习 skyrmions 的仿真时发现关于光的很多信息并没有学到，包括光子的自旋，光的 stokes 矢量等。所以写这篇笔记作为我对于学习内容的记录。</p>\n</div>\n<p><img data-src=\"./%E5%85%89%E5%AD%90/cover.jpeg\" alt=\"photon\" title=\"光子\"></p>\n",
+            "tags": []
+        },
         {
             "id": "http://cuyoho.github.io/2024/05/03/%E8%AF%BB%E4%B9%A6%E6%91%98%E6%8A%84/",
             "url": "http://cuyoho.github.io/2024/05/03/%E8%AF%BB%E4%B9%A6%E6%91%98%E6%8A%84/",

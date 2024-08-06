@@ -6,7 +6,7 @@
   <link href="http://cuyoho.github.io/atom.xml" rel="self"/>
   
   <link href="http://cuyoho.github.io/"/>
-  <updated>2024-08-02T08:41:40.052Z</updated>
+  <updated>2024-08-06T13:28:30.753Z</updated>
   <id>http://cuyoho.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>光子</title>
+    <link href="http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/"/>
+    <id>http://cuyoho.github.io/2024/08/06/%E5%85%89%E5%AD%90/</id>
+    <published>2024-08-06T08:11:18.000Z</published>
+    <updated>2024-08-06T13:28:30.753Z</updated>
+    
+    <content type="html"><![CDATA[<div class="note default"><p>这篇文章整理了有关光子的一些内容，主要是我在学习 skyrmions 的仿真时发现关于光的很多信息并没有学到，包括光子的自旋，光的 stokes 矢量等。所以写这篇笔记作为我对于学习内容的记录。</p></div><p><img data-src="./%E5%85%89%E5%AD%90/cover.jpeg" alt="photon" title="光子"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;note default&quot;&gt;
+&lt;p&gt;这篇文章整理了有关光子的一些内容，主要是我在学习 skyrmions 的仿真时发现关于光的很多信息并没有学到，包括光子的自旋，光的 stokes 矢量等。所以写这篇笔记作为我对于学习内容的记录。&lt;/p&gt;
+&lt;/div&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>读书摘抄</title>
